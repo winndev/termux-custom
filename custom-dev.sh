@@ -4,7 +4,7 @@ echo ""
 read -p $' \e[0m\e[1;92m Insira seu Usuário : \e[0m\e[1;96m\en' user
 echo ""
 echo ""
-echo -e  $g "Instalando requisitos...."
+echo -e  $g "Instalando Customização...."
 echo ""
 apt update 
 apt upgrade -y 
